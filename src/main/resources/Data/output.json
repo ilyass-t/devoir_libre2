@@ -1,0 +1,170 @@
+[
+  {
+    "date": "Mar 15, 2024",
+    "amount": 129.5,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 16, 2024",
+    "amount": 245.75,
+    "id": "2",
+    "customer_id": 1
+  },
+  {
+    "date": "Mar 17, 2024",
+    "amount": 87.3,
+    "id": "3",
+    "customer_id": 3
+  },
+  {
+    "date": "Mar 18, 2024",
+    "amount": 352.9,
+    "id": "4",
+    "customer_id": 4
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "5",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "8",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 15, 2024",
+    "amount": 129.5,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 16, 2024",
+    "amount": 245.75,
+    "id": "2",
+    "customer_id": 1
+  },
+  {
+    "date": "Mar 17, 2024",
+    "amount": 87.3,
+    "id": "3",
+    "customer_id": 3
+  },
+  {
+    "date": "Mar 18, 2024",
+    "amount": 352.9,
+    "id": "4",
+    "customer_id": 4
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "5",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "8",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 15, 2024",
+    "amount": 129.5,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 16, 2024",
+    "amount": 245.75,
+    "id": "2",
+    "customer_id": 1
+  },
+  {
+    "date": "Mar 17, 2024",
+    "amount": 87.3,
+    "id": "3",
+    "customer_id": 3
+  },
+  {
+    "date": "Mar 18, 2024",
+    "amount": 352.9,
+    "id": "4",
+    "customer_id": 4
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "5",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "6",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "8",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 15, 2024",
+    "amount": 129.5,
+    "id": "1",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 16, 2024",
+    "amount": 245.75,
+    "id": "2",
+    "customer_id": 1
+  },
+  {
+    "date": "Mar 17, 2024",
+    "amount": 87.3,
+    "id": "3",
+    "customer_id": 3
+  },
+  {
+    "date": "Mar 18, 2024",
+    "amount": 352.9,
+    "id": "4",
+    "customer_id": 4
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "5",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "6",
+    "customer_id": 2
+  },
+  {
+    "date": "Mar 19, 2024",
+    "amount": 56.4,
+    "id": "8",
+    "customer_id": 2
+  }
+]
